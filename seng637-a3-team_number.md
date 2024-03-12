@@ -15,7 +15,7 @@ for each group. Please see each lab document for details.)
 
 # 1 Introduction
 
-In this lab report, we document our work on code coverage, adequacy criteria, and test case correlation for Assignment #3 in the SENG 637 course. The focus of the assignment is on white-box testing using JUnit and code coverage tools. Our group worked collaboratively on various aspects of the assignment, with Aemen and Shaun contributing to Section 3.2, while Soumini, Muhammad, and Jauhar worked on Section 3.3.
+In this lab report, we document our work on code coverage, adequacy criteria, and test case correlation for Assignment #3 in the SENG 637 course. The focus of the assignment is on white-box testing using JUnit and code coverage tools. Our group worked collaboratively on various aspects of the assignment, with Aemen and Shaun contributing to Section 3.2, while Soumini, Muhammad, and Jauhar worked on Section 3.3. Our tasks involved manual data-flow coverage calculations, developing new unit tests, and evaluating the coverage achieved.
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
