@@ -55,4 +55,4 @@ Our group faced challenges related to the clarification of assignment instructio
 
 # 10 Comments/feedback on the lab itself
 
-The group provides feedback on the lab structure, expressing appreciation for the comprehensive setup instructions. However, there are suggestions for providing more support for learning and using different Integrated Development Environments (IDEs) to enhance the overall learning experience.
+There are suggestions for providing more support for learning and using different Integrated Development Environments (IDEs) to enhance the overall learning experience.
